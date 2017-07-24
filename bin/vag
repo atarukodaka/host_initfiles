@@ -1,0 +1,3 @@
+cd vagrant/centos64
+make
+

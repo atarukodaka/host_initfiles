@@ -1,0 +1,17 @@
+
+
+
+# ls
+alias l='ls -lF --color=auto'
+alias la='ls -laF --color=auto'
+alias lt='ls -lt'
+
+alias h="history"
+
+# git
+alias gst="git status -s"
+alias gadd="git add"
+alias gpush="git push"
+alias gdiff="git diff --color"
+alias glg="git log --stat --pretty=format:'%Cblue%h %Cgreen%ar %Cred%an %Creset%s %Cred%d'"
+
